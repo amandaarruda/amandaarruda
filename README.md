@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! I'm Amanda: a naturally curious person, an artist, and soon a <strong>computer scientist!</strong>
+  Hi! I'm Amanda: a naturally curious person, an artist, and in the future a <strong>computer scientist!</strong>
   New projects and updates will be coming soon! Wait and see!🎇
   
   🇧🇷: Olá! Sou Amanda, curiosa por natureza, artista e, em breve, uma <strong>cientista da computação!</strong>
-  Novos projetos e atualizações virão em breve! Aguarde!🎇
+  Novos projetos e atualizações virão logo logo! Aguarde!🎇
 </p>
 
 <p align="left">
