@@ -8,7 +8,7 @@
   New projects and updates will be coming soon! Wait and see!🎇
   
   🇧🇷: Olá! Sou Amanda, curiosa por natureza, artista e, em breve, uma <strong>cientista da computação!</strong>
-  Novos projetos e atualizações virão em breve! Você não perde por esperar!🎇
+  Novos projetos e atualizações virão em breve! Aguarde!🎇
 </p>
 
 <p align="left">
