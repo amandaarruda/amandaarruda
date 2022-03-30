@@ -1,4 +1,4 @@
-![Design sem nome](https://user-images.githubusercontent.com/66084295/160927964-3ed7b187-a402-43cc-aefc-0195e7a82eb1.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/66084295/160939088-245a296c-9000-4d71-a470-a1960662597f.png)
 ### <h2> Welcome!✨ </h2> 
 
 <!--
