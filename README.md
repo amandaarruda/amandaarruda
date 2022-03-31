@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 You can reach me on: ⬇️
+  💌 You can reach me on:
 </p>
 
 <p align="left">
