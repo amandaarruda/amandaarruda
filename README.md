@@ -1,4 +1,4 @@
-![Design sem nome (4)](https://user-images.githubusercontent.com/66084295/160939880-859a7da7-f0fb-4ca2-8a77-88c9b30075a3.png)
+![Design sem nome](https://user-images.githubusercontent.com/66084295/161026738-89796ddb-cdfa-4ea4-b21f-8fc9ee4136c2.png)
 ### <h2> Welcome!✨ </h2> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -33,4 +33,4 @@
 -->  
   </p>
 
-<img src= "https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif"> <strong>See you soon!😊</strong>
+<img src= "https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif"> <strong>See you soon!</strong>
