@@ -1,4 +1,4 @@
-![Design sem nome](https://user-images.githubusercontent.com/66084295/161026738-89796ddb-cdfa-4ea4-b21f-8fc9ee4136c2.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/66084295/161027762-3c603b38-852d-49a9-b4c1-e871836109f7.png)
 ### <h2> Welcome!✨ </h2> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
