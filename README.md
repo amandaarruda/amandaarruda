@@ -28,9 +28,10 @@
   <a href="https://www.linkedin.com/in/amandaarrudamelo/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaarrudamelo/" /></a>
 <!--
+-->
   <a href="https://contate.me/amandaarruda" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://contate.me/amandaarruda"/></a>
--->  
+  
  </p>
  
 <p align="center">
