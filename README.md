@@ -31,6 +31,11 @@
   <a href="https://contate.me/amandaarruda" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://contate.me/amandaarruda"/></a>
 -->  
-  </p>
-
-<img src= "https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif"> <strong>See you soon!</strong>
+ </p>
+ 
+<p align="center">
+<img src= "https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif"> 
+ </p>
+<p align="center">
+  <strong>See you soon!</strong>
+</p>
