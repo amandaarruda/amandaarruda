@@ -12,9 +12,9 @@
 </p>
 
 <p align="left">
-  📚 I'm currently learning <strong>algorithms and data structure!</strong>
+  📚 I'm currently learning <strong>algorithms and data structure, linear algebra, calculus, discrete math and python!</strong>
   
-  🇧🇷: Atualmente, eu estou aprendendo <strong>algoritmos e estrutura de dados!</strong>
+  🇧🇷: Atualmente, eu estou aprendendo <strong>algoritmos e estrutura de dados, álgebra linear, cálculo, matemática discreta e python!</strong>
 </p>
 
 <p align="left">
