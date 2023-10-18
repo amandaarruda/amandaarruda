@@ -27,8 +27,6 @@
   - Praticar yoga 🧘🏻‍♀️
   - Aprender sobre astrofísica 🌌  
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaarruda&layout=donut&theme=jolly)](https://github.com/amandaarruda/github-readme-stats)
-
   💌 You can reach me on:
 
 
@@ -43,3 +41,9 @@
   <img src="https://img.shields.io/badge/-WhatsApp-61169c?style=flat-square&labelColor=61169c&logo=whatsapp&logoColor=white&link=https://contate.me/amandaarruda"/></a>
   
  </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandaarruda&theme=jolly)
+
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaarruda&theme=jolly&show_icons=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaarruda&layout=donut&theme=jolly)](https://github.com/amandaarruda/github-readme-stats)
