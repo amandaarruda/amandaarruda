@@ -1,7 +1,7 @@
 <img width="1920" height="450" src="https://github.com/user-attachments/assets/4c68e3a3-68d7-4120-88a0-0cb0125d1cb3" />
 
-# **Welcome!✨**
-Computer Science undergraduate at **UFPE / CIn**, passionate about **software engineering**, **AI**, **computer vision**, **data science**, **machine learning**, **robotics**, and **quantum computing**.
+## **Hi! I’m Amanda ✨**
+Computer Science undergraduate [@CIn-UFPE](https://portal.cin.ufpe.br/), passionate about **software engineering**, **AI**, **computer vision**, **data science**, **machine learning**, **robotics**, and **quantum computing**.
 
 I build projects that combine research, innovation, and real-world value.
 
@@ -36,31 +36,28 @@ I’m continually exploring:
         />
       </td>
       <td style="width:50%; vertical-align:top; padding:0;">
-        <img
-          alt="Top Languages"
+        <img alt="Top Languages"
           width="100%"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaarruda&layout=compact&hide_border=true&bg_color=fff8e1&title_color=7B3F00&text_color=5D3A00"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaarruda&layout=compact&hide_border=true&bg_color=FFF3E0&title_color=7B3F00&text_color=5D3A00&hide=Jupyter%20Notebook,TeX,PowerShell"
         />
       </td>
     </tr>
   </table>
+</div>
 
-  <a href="https://www.linkedin.com/in/amandaarrudamelo/">
-    <img
-      alt="Connect on LinkedIn"
-      src="https://img.shields.io/badge/Let's%20Connect-linkedin-E0A96D?style=for-the-badge&logo=LinkedIn&logoColor=3E2723&labelColor=F5E6CC"
-    />
+<div align="center">
+  <a href="https://www.linkedin.com/in/amandaarrudamelo/" target="_blank" rel="noopener">
+    <img alt="Connect on LinkedIn"
+      src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-E0A96D?style=for-the-badge&logo=linkedin&logoColor=3E2723&labelColor=F5E6CC"/>
   </a>
-  <a href="mailto:amandaarrudamelo@gmail.com">
-    <img
-      alt="Connect by Email"
-      src="https://img.shields.io/badge/Reach%20me%20out-Email-E0A96D?style=for-the-badge&logo=gmail&logoColor=3E2723&labelColor=F5E6CC"
-    />
+  <a href="mailto:amandaarrudamelo@gmail.com" target="_blank" rel="noopener">
+    <img alt="Reach me by Email"
+      src="https://img.shields.io/badge/Reach%20Me%20Out-Email-E0A96D?style=for-the-badge&logo=gmail&logoColor=3E2723&labelColor=F5E6CC"/>
   </a>
 </div>
 
 <div align="center">
  
-_**Code + curiosity + collaboration = impact.**_
+### _**Code + curiosity + collaboration = impact.**_
 
 </div>
