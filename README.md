@@ -1,45 +1,66 @@
-![AMANDA ARRUDA](https://user-images.githubusercontent.com/66084295/172268866-9bf655f9-4764-4c65-b153-a660156e09ad.png)
+<img width="1920" height="450" src="https://github.com/user-attachments/assets/4c68e3a3-68d7-4120-88a0-0cb0125d1cb3" />
+
 # **Welcome!✨**
+Computer Science undergraduate at **UFPE / CIn**, passionate about **software engineering**, **AI**, **computer vision**, **data science**, **machine learning**, **robotics**, and **quantum computing**.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+I build projects that combine research, innovation, and real-world value.
+
+I love experimenting with new architectures, prototyping ideas quickly, and collaborating in open-source and cross-disciplinary teams.
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++
+- **AI/ML:** PyTorch, scikit-learn, YOLO, MediaPipe, OpenCV, TensorFlow
+- **Quantum:** Qiskit
+- **Robotics/Edge:** ROS2, embedded systems
+- **Cloud & Dev:** AWS (S3, EC2), Docker, Git/GitHub
+
+### 🌱 Learning & Growth
+
+I’m continually exploring:
+
+- **AI & Data:** Deep Learning · Data Science · LLMs · Quantum ML  
+- **Software Dev:** SaaS Development · Mobile Development · Functional Programming  
+- **Systems & Infra:** Cloud Computing · Databases · Cybersecurity  
+- **CS Core:** Algorithms & Data Structures · Theory of Computation · Competitive Programming
+
+
+<div align="center" style="width:100%">
+
+  <table style="width:100%">
+    <tr>
+      <td style="width:50%; vertical-align:top; padding:0;">
+        <img
+          alt="GitHub Stats"
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api?username=amandaarruda&show_icons=true&hide_title=false&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=fff8e1&title_color=7B3F00&text_color=5D3A00&icon_color=FF8F00"
+        />
+      </td>
+      <td style="width:50%; vertical-align:top; padding:0;">
+        <img
+          alt="Top Languages"
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaarruda&layout=compact&hide_border=true&bg_color=fff8e1&title_color=7B3F00&text_color=5D3A00"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <a href="https://www.linkedin.com/in/amandaarrudamelo/">
+    <img
+      alt="Connect on LinkedIn"
+      src="https://img.shields.io/badge/Let's%20Connect-linkedin-E0A96D?style=for-the-badge&logo=LinkedIn&logoColor=3E2723&labelColor=F5E6CC"
+    />
+  </a>
+  <a href="mailto:amandaarrudamelo@gmail.com">
+    <img
+      alt="Connect by Email"
+      src="https://img.shields.io/badge/Reach%20me%20out-Email-E0A96D?style=for-the-badge&logo=gmail&logoColor=3E2723&labelColor=F5E6CC"
+    />
+  </a>
+</div>
+
+<div align="center">
  
-  Hi! I'm Amanda: a naturally curious person, an artist, and in the future, a **computer scientist!** 🎇
-  
-  📚 I'm currently learning **algorithms and data structure, c++, deep learning, computer architecture and python!**
+_**Code + curiosity + collaboration = impact.**_
 
-  🚀 I'm also on the drone team of the world champion robotics team RobôCIn. Through studying flight control and automation, I work so that quadcopters make autonomous decisions based on artificial intelligence. In addition to developing physical drones, I also carry out simulations.
-
-  🪷 Some things I love:
-  - Drawing and painting 🖌️🎨
-  - Playing ukulele, drums and singing 🪕🥁🎙️
-  - Practicing yoga 🧘🏻‍♀️
-  - Learning about astrophysics 🌌
-  
-  🇧🇷:   Olá! Sou Amanda, curiosa por natureza, artista e, em breve, uma **cientista da computação!** 🎇
-  
-  📚 Atualmente, eu estou aprendendo **algoritmos e estrutura de dados, c++, deep learning, arquitetura de computadores e python!**
-
-  🚀 Eu atuo no time de drones da equipe de robótica mundialmente campeã RobôCIn. Através do estudo do controle e automação de voos, trabalho para que os quadcópteros tomem decisões autônomas com base em inteligência artificial. Além do desenvolvimento em drones físicos, também realizo simulações.
-
-  🪷 Alguns dos meus hobbies:
-  - Desenhar e pintar 🖌️🎨
-  - Tocar ukulele, alfaia e cantar 🪕🥁🎙️
-  - Praticar yoga 🧘🏻‍♀️
-  - Aprender sobre astrofísica 🌌  
-  
-  💌 You can reach me on:
-
-
-<p align="left">
-  <a href="mailto:amandaarrudamelo@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-61169c?style=flat-square&labelColor=61169c&logo=gmail&logoColor=white&link=mailto:amandaarrudamelo@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/amandaarrudamelo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-61169c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaarrudamelo/" /></a>
-
-  <a href="https://contate.me/amandaarruda" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-61169c?style=flat-square&labelColor=61169c&logo=whatsapp&logoColor=white&link=https://contate.me/amandaarruda"/></a>
-  
- </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandaarruda&theme=jolly)
+</div>
