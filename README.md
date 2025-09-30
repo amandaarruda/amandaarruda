@@ -3,7 +3,7 @@
 ## **Hi! I’m Amanda ✨**
 Computer Science undergraduate [@CIn-UFPE](https://portal.cin.ufpe.br/), passionate about **software engineering**, **AI**, **computer vision**, **data science**, **machine learning**, **robotics**, and **quantum computing**.
 
-I build projects that combine research, innovation, and real-world value.
+I build projects that combine research, innovation, and real-world value. I believe technology should be a force for good, driving positive impact and empowering communities through social innovation.
 
 I love experimenting with new architectures, prototyping ideas quickly, and collaborating in open-source and cross-disciplinary teams.
 
@@ -22,7 +22,13 @@ I’m continually exploring:
 - **Software Dev:** SaaS Development · Mobile Development · Functional Programming  
 - **Systems & Infra:** Cloud Computing · Databases · Cybersecurity  
 - **CS Core:** Algorithms & Data Structures · Theory of Computation · Competitive Programming
+- **Dev & Process:** Software Testing · DevOps · Agile Methodologies
 
+### 🌍 Languages
+- 🇧🇷 Português — Native
+- 🇺🇸 English — Advanced (C1/C2)
+- 🇫🇷 Français — Beginner (A2)
+- 🇪🇸 Español — Beginner (A1)
 
 <div align="center" style="width:100%">
 
