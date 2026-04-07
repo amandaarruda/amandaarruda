@@ -5,11 +5,7 @@ Computer Science undergraduate [@CIn-UFPE](https://portal.cin.ufpe.br/), passion
 
 I build systems that combine engineering, research, innovation, and real-world value. I believe technology should be a force for good, driving positive impact and empowering communities through social innovation.
 
-I’m especially interested in:
-- building **end-to-end systems**
-- designing **scalable architectures**
-- solving **ambiguous, real-world problems**
-- and collaborating in **high-impact, multidisciplinary teams**
+I’m especially interested in building end-to-end systems, designing scalable architectures, solving real-world problems, and collaborating in multidisciplinary teams.
 
 ### 🛠️ Tech Stack & Skills
 
