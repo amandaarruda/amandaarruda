@@ -3,31 +3,38 @@
 ## **Hi! I’m Amanda ✨**
 Computer Science undergraduate [@CIn-UFPE](https://portal.cin.ufpe.br/), passionate about **software engineering**, **AI**, **computer vision**, **data science**, **machine learning**, **robotics**, and **quantum computing**.
 
-I build projects that combine research, innovation, and real-world value. I believe technology should be a force for good, driving positive impact and empowering communities through social innovation.
+I build systems that combine engineering, research, innovation, and real-world value. I believe technology should be a force for good, driving positive impact and empowering communities through social innovation.
 
-I love experimenting with new architectures, prototyping ideas quickly, and collaborating in open-source and cross-disciplinary teams.
+I’m especially interested in:
+- building **end-to-end systems**
+- designing **scalable architectures**
+- solving **ambiguous, real-world problems**
+- and collaborating in **high-impact, multidisciplinary teams**
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C++
-- **AI/ML:** PyTorch, scikit-learn, YOLO, MediaPipe, OpenCV, TensorFlow
-- **Quantum:** Qiskit
-- **Robotics/Edge:** ROS2, embedded systems
-- **Cloud & Dev:** AWS (S3, EC2), Docker, Git/GitHub
+
+- **Languages:** Python, C/C++, JavaScript, SQL  
+- **AI/ML & Data:** PyTorch, Scikit-learn, OpenCV, MediaPipe, Pandas, NumPy  
+- **LLMs & Agents:** LangChain, RAG pipelines, Gemini  
+- **Quantum Computing:** Qiskit, Pennylane  
+- **Robotics & Systems:** ROS2, real-time systems, computer vision for autonomous agents  
+- **Software Engineering:** REST APIs, testing (Cypress), CI/CD, code review workflows  
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Git/GitHub  
 
 ### 🌱 Learning & Growth
 
-I’m continually exploring:
+I’m continuously exploring:
 
-- **AI & Data:** Deep Learning · Data Science · LLMs · Quantum ML  
-- **Software Dev:** SaaS Development · Mobile Development · Functional Programming  
-- **Systems & Infra:** Cloud Computing · Databases · Cybersecurity  
-- **CS Core:** Algorithms & Data Structures · Theory of Computation · Competitive Programming
-- **Dev & Process:** Software Testing · DevOps · Agile Methodologies
+- **AI & Systems:** Deep Learning · LLMs · Computer Vision · Quantum ML  
+- **Software Engineering:** System Design · APIs · Testing · Scalable Architectures  
+- **Infrastructure:** Cloud Computing · Distributed Systems · Databases  
+- **CS Core:** Algorithms & Data Structures · Competitive Programming  
+- **Engineering Practices:** CI/CD · Code Review · DevOps · Agile  
 
 ### 🌍 Languages
 - 🇧🇷 Português — Native
 - 🇺🇸 English — Advanced (C1/C2)
-- 🇫🇷 Français — Beginner (A2)
+- 🇫🇷 Français — Intermediate (B1)
 - 🇪🇸 Español — Beginner (A1)
 
 <div align="center" style="width:100%">
